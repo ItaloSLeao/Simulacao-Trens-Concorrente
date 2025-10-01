@@ -28,6 +28,7 @@ O projeto tem como objetivo demonstrar, de forma prática, as condições de cor
 ├── assets/         # Recursos estáticos (imagens, ícones etc.)
 ├── controller/     # Lógica de controle da aplicação
 ├── model/          # Classes de modelagem do projeto
+├── util/           # Classe de utilidade auxiliar
 ├── view/           # Marcação gráfica (FXML)
 └── Principal.java  # Classe principal de execução
 
