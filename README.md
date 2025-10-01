@@ -2,7 +2,7 @@
 
 Repositório para agregar o projeto de **Simulação de Condições de Corrida entre trens por trilhos**, desenvolvido em **Java** com interface gráfica em **JavaFX**.  
 
-O projeto tem como objetivo demonstrar, de forma prática, as condições de corrida geradas por trens, que compartilham trilhos em variadas combinações de posicionamentos inicais do trajeto.
+O projeto tem como objetivo demonstrar, de forma prática, as condições de corrida geradas por trens, que compartilham trilhos em variadas combinações de posicionamentos iniciais do trajeto.
 
 ---
 
